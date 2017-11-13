@@ -1,0 +1,17 @@
+:File_MenuItem	{container=':LJ TEST_MenuBar' text='File' type='MenuItem'}
+:LJ TEST.Check Box1_CheckBox	{container=':LJ TEST_Window' text='Check Box1' type='CheckBox'}
+:LJ TEST.Check Box2_CheckBox	{container=':LJ TEST_Window' text='Check Box2' type='CheckBox'}
+:LJ TEST.Create_Button	{container=':LJ TEST_Window' text='Create' type='Button'}
+:LJ TEST.Delete_Button	{container=':LJ TEST_Window' text='Delete' type='Button'}
+:LJ TEST.Entry1:_Edit	{container=':LJ TEST_Window' leftObject=':LJ TEST.Entry1:_Label' type='Edit'}
+:LJ TEST.Entry1:_Label	{container=':LJ TEST_Window' text='Entry1:' type='Label'}
+:LJ TEST.N_RadioButton	{container=':LJ TEST_Window' text='N' type='RadioButton'}
+:LJ TEST.Text 100_Edit	{container=':LJ TEST_Window' leftObject=':LJ TEST.Text 100_Label' type='Edit'}
+:LJ TEST.Text 100_Label	{container=':LJ TEST_Window' text='Text 100' type='Label'}
+:LJ TEST.This is literal text_Label	{container=':LJ TEST_Window' text='This is literal text' type='Label'}
+:LJ TEST.Update_Button	{container=':LJ TEST_Window' text='Update' type='Button'}
+:LJ TEST.Y_RadioButton	{container=':LJ TEST_Window' text='Y' type='RadioButton'}
+:LJ TEST_ComboBox	{container=':LJ TEST_Window' type='ComboBox'}
+:LJ TEST_List	{container=':LJ TEST_Window' type='List'}
+:LJ TEST_MenuBar	{container=':LJ TEST_Window' type='MenuBar'}
+:LJ TEST_Window	{text='LJ TEST' type='Window'}
